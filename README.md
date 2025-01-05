@@ -1,4 +1,4 @@
-# Eigenvalues of a Matrix (Numeric Linear Algebra)
+# Eigenvalues of a Matrix (Numeric Linear Algebra) | University Project
 Calculating the eigenvalues ​​of a matrix using the QR algorithm
 
 The algorithm read the matrix from the txt.file and it calculates the eigenvalues of a Matrix using the QR Algorithm.
